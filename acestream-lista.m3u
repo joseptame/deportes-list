@@ -1,104 +1,102 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LaLiga_TV_Por_M%2B_Logo.png",M. LaLiga 1080 MultiAudio (J)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LaLiga_TV_Por_M%2B_Logo.png",M. LaLiga 1080 MultiAudio (lista-Jfuster)
 acestream://c9321006921967d6258df6945f1d598a5c0cbf1e
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LaLiga_TV_Por_M%2B_Logo.png",M. LaLiga 1080 MultiAudio (J)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LaLiga_TV_Por_M%2B_Logo.png",M. LaLiga 1080 MultiAudio (lista-Jfuster)
 acestream://4b528d10eaad747ddf52251206177573ee3e9f74
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LaLiga_TV_Por_M%2B_Logo.png",M. LaLiga 720 (J)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LaLiga_TV_Por_M%2B_Logo.png",M. LaLiga 720 (lista-Jfuster)
 acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58
-#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/channels/xlogo-m-laliga-tv-2-1085.jpg.pagespeed.ic.NHEt3Oe9hB.jpg",M. LaLiga 2 1080 (J)
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/channels/xlogo-m-laliga-tv-2-1085.jpg.pagespeed.ic.NHEt3Oe9hB.jpg",M. LaLiga 2 1080 (lista-Jfuster)
 acestream://51b363b1c4d42724e05240ad068ad219df8042ec
-#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/channels/xlogo-m-laliga-tv-2-1085.jpg.pagespeed.ic.NHEt3Oe9hB.jpg",M. LaLiga 2 720 (J)
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/channels/xlogo-m-laliga-tv-2-1085.jpg.pagespeed.ic.NHEt3Oe9hB.jpg",M. LaLiga 2 720 (lista-Jfuster)
 acestream://ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
-#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/channels/xlogo-m-laliga-tv-3-1086.jpg.pagespeed.ic.Z1Beu2dYYY.jpg",M. LaLiga 3 1080 (J)
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/channels/xlogo-m-laliga-tv-3-1086.jpg.pagespeed.ic.Z1Beu2dYYY.jpg",M. LaLiga 3 1080 (lista-Jfuster)
 acestream://7ad14386deef2f45ffe17d30a631dbf79b6a1a87
-#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/channels/xlogo-m-laliga-tv-3-1086.jpg.pagespeed.ic.Z1Beu2dYYY.jpg",M. LaLiga 3 720 (J)
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/channels/xlogo-m-laliga-tv-3-1086.jpg.pagespeed.ic.Z1Beu2dYYY.jpg",M. LaLiga 3 720 (lista-Jfuster)
 acestream://382b14499e3d76e557d449d2e5bbc4e4bd63bd39
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1280px-Movistar_Liga_de_Campeones.svg.png",Campeones 1080 (J)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1280px-Movistar_Liga_de_Campeones.svg.png",Campeones 1080 (lista-Jfuster)
 acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1280px-Movistar_Liga_de_Campeones.svg.png",Campeones 720 (J)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1280px-Movistar_Liga_de_Campeones.svg.png",Campeones 720 (lista-Jfuster)
 acestream://b028202ff335911db3118bceac027df3e8ef6c32
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png",Campeones 1080 2 (J)
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png",Campeones 1080 2 (lista-Jfuster)
 acestream://2b51710cee513e8939785fa3e7980f32d4e0415f
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png",Campeones 1080 2 (J)
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png",Campeones 1080 2 (lista-Jfuster)
 acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png",Campeones 2 1080 (J)
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png",Campeones 2 1080 (lista-Jfuster)
 acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png",Campeones 2 720 (J)
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png",Campeones 2 720 (lista-Jfuster)
 acestream://38f7b2044e549df2039ff26cefa6f9a60c854d5e
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png",Campeones 3 1080 (J)
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png",Campeones 3 1080 (lista-Jfuster)
 acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png",Campeones 3 720 (J)
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png",Campeones 3 720 (lista-Jfuster)
 acestream://cfc371890bfb502737a26de5215e50929c52d0f9
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/2/dazn-laliga-logo-png_seeklogo-490009.png",DAZN LaLiga 1080 MultiAudio (J)
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/2/dazn-laliga-logo-png_seeklogo-490009.png",DAZN LaLiga 1080 MultiAudio (lista-Jfuster)
 acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/2/dazn-laliga-logo-png_seeklogo-490009.png",DAZN LaLiga 1080 MultiAudio (J)
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/2/dazn-laliga-logo-png_seeklogo-490009.png",DAZN LaLiga 1080 MultiAudio (lista-Jfuster)
 acestream://74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/2/dazn-laliga-logo-png_seeklogo-490009.png",DAZN LaLiga 720 (J)
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/2/dazn-laliga-logo-png_seeklogo-490009.png",DAZN LaLiga 720 (lista-Jfuster)
 acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
-#EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/channels/logo-dazn-laliga-2-1273.jpg",DAZN LaLiga 2 1080 MultiAudio (J)
+#EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/channels/logo-dazn-laliga-2-1273.jpg",DAZN LaLiga 2 1080 MultiAudio (lista-Jfuster)
 acestream://a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
-#EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/channels/logo-dazn-laliga-2-1273.jpg",DAZN LaLiga 2 720 MultiAudio (J)
+#EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/channels/logo-dazn-laliga-2-1273.jpg",DAZN LaLiga 2 720 MultiAudio (lista-Jfuster)
 acestream://c976c7b37964322752db562b4ad65515509c8d36
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png",DAZN F1 1080 (Fórmula 1) (J)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png",DAZN F1 1080 (Fórmula 1) (lista-Jfuster)
 acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png",DAZN F1 1080 (Fórmula 1) (J)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png",DAZN F1 1080 (Fórmula 1) (lista-Jfuster)
 acestream://bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png",DAZN F1 1080 (Fórmula 1) (J)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png",DAZN F1 1080 (Fórmula 1) (lista-Jfuster)
 acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png",DAZN F1 720 (Fórmula 1) (J)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png",DAZN F1 720 (Fórmula 1) (lista-Jfuster)
 acestream://ed6188dcbb491efeb2092c1a6199226c27f61727
 
-#EXTINF:-1 tvg-logo="https://iusport.com/upload/images/03_2024/9482_laliga-hypermotion.jpg",LaLiga Hypermotion 1080 (J)
+#EXTINF:-1 tvg-logo="https://iusport.com/upload/images/03_2024/9482_laliga-hypermotion.jpg",LaLiga Hypermotion 1080 (lista-Jfuster)
 acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
-#EXTINF:-1 tvg-logo="https://iusport.com/upload/images/03_2024/9482_laliga-hypermotion.jpg",LaLiga Hypermotion 720 (J)
+#EXTINF:-1 tvg-logo="https://iusport.com/upload/images/03_2024/9482_laliga-hypermotion.jpg",LaLiga Hypermotion 720 (lista-Jfuster)
 acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd
-#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/programs/l/a/l/laliga-tv-hypermotion-2-poster-1067872_SPA-51_V.jpg",LaLiga Hypermotion 2 1080 (J)
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/programs/l/a/l/laliga-tv-hypermotion-2-poster-1067872_SPA-51_V.jpg",LaLiga Hypermotion 2 1080 (lista-Jfuster)
 acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8
-#EXTINF:-1 tvg-logo="https://wiki2023.mundoplus.tv/_media/logos/laligahmm3.png",LaLiga Hypermotion 3 (J)
+#EXTINF:-1 tvg-logo="https://wiki2023.mundoplus.tv/_media/logos/laligahmm3.png",LaLiga Hypermotion 3 (lista-Jfuster)
 acestream://778d2f60bb7207addedcca0b9aed98f41529724e
 
-#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo_eurosport_nuevo.jpg",Eurosport 1080 (J)
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo_eurosport_nuevo.jpg",Eurosport 1080 (lista-Jfuster)
 acestream://c3da6c4f91d9d10ade00318a869435e19f204d0e
-#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo_eurosport_nuevo.jpg",Eurosport 720 (J)
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo_eurosport_nuevo.jpg",Eurosport 720 (lista-Jfuster)
 acestream://d830c1dc3b74e74f79cbb823804cf2037857e78a
-#EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-2-logo-vector.png",Eurosport 2 1080 (J)
+#EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-2-logo-vector.png",Eurosport 2 1080 (lista-Jfuster)
 acestream://0585e09bb8ac9720e4c11934f1b184e309291551
-#EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-2-logo-vector.png",Eurosport 2 720 (J)
+#EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-2-logo-vector.png",Eurosport 2 720 (lista-Jfuster)
 acestream://5c910d614894635153a7d42de98cc2e4a958a53f
 
-#EXTINF:-1 tvg-logo="https://static.eldiario.es/clip/175e46a8-1d3b-45b9-91e9-8ece5a728e56_16-9-discover-aspect-ratio_default_0.jpg",MovistarPlus 1080 (J)
+#EXTINF:-1 tvg-logo="https://static.eldiario.es/clip/175e46a8-1d3b-45b9-91e9-8ece5a728e56_16-9-discover-aspect-ratio_default_0.jpg",MovistarPlus 1080 (lista-Jfuster)
 acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-#EXTINF:-1 tvg-logo="https://www.hipodromos.org/wp-content/uploads/2022/04/Vamos-por-M_Color-Positivo_RGB-1024x551.jpg",Vamos 1080 (J)
+#EXTINF:-1 tvg-logo="https://www.hipodromos.org/wp-content/uploads/2022/04/Vamos-por-M_Color-Positivo_RGB-1024x551.jpg",Vamos 1080 (lista-Jfuster)
 acestream://c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
-#EXTINF:-1 tvg-logo="https://www.hipodromos.org/wp-content/uploads/2022/04/Vamos-por-M_Color-Positivo_RGB-1024x551.jpg",Vamos 720 (J)
+#EXTINF:-1 tvg-logo="https://www.hipodromos.org/wp-content/uploads/2022/04/Vamos-por-M_Color-Positivo_RGB-1024x551.jpg",Vamos 720 (lista-Jfuster)
 acestream://0e5d8c9724fa9163f49096b70484e315251eb785
 
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f5vosd1657045413.png",Dazn 1 (J)
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f5vosd1657045413.png",Dazn 1 (lista-Jfuster)
 acestream://eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f5vosd1657045413.png",Dazn 1 (J)
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f5vosd1657045413.png",Dazn 1 (lista-Jfuster)
 acestream://7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
-#EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2024/08/chaine-dazn2-300x155.png",Dazn 2 (J)
+#EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2024/08/chaine-dazn2-300x155.png",Dazn 2 (lista-Jfuster)
 acestream://ae68a0835039fab28fd2314108fabd4fab33b8ab
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/comunicacion/wp-content/uploads/2023/07/Deportes-por-M_Color-Negativo_RGB.jpg",M.Deporte 1080 (J)
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/comunicacion/wp-content/uploads/2023/07/Deportes-por-M_Color-Negativo_RGB.jpg",M.Deporte 1080 (lista-Jfuster)
 acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/comunicacion/wp-content/uploads/2023/07/Deportes-por-M_Color-Negativo_RGB.jpg",M.Deporte 720 (J)
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/comunicacion/wp-content/uploads/2023/07/Deportes-por-M_Color-Negativo_RGB.jpg",M.Deporte 720 (lista-Jfuster)
 acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/3840px-Movistar_Deportes_2.svg.png",M.Dedporte 2 1080 (J)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/3840px-Movistar_Deportes_2.svg.png",M.Dedporte 2 1080 (lista-Jfuster)
 acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/3840px-Movistar_Deportes_2.svg.png",M.Deporte 2 720 (J)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/3840px-Movistar_Deportes_2.svg.png",M.Deporte 2 720 (lista-Jfuster)
 acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25
-#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/j/5/i/xmovistar-deportes-3.jpg.pagespeed.ic.dkpL-nsdjk.jpg",M.Deporte 3 1080 (J)
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/j/5/i/xmovistar-deportes-3.jpg.pagespeed.ic.dkpL-nsdjk.jpg",M.Deporte 3 1080 (lista-Jfuster)
 acestream://799c6b5ee1cf41af077d14e3f9c45a32697eb903
-#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/j/5/i/xmovistar-deportes-3.jpg.pagespeed.ic.dkpL-nsdjk.jpg",M.Deporte 3 720 (J)
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/j/5/i/xmovistar-deportes-3.jpg.pagespeed.ic.dkpL-nsdjk.jpg",M.Deporte 3 720 (lista-Jfuster)
 acestream://2fd410c5d89e7a627cd3785685b7915b8e4bd534
-#EXTINF:-1 tvg-logo="https://wiki2023.mundoplus.tv/_media/logos/mdem4.png",M.Deporte 4 1080 (J)
+#EXTINF:-1 tvg-logo="https://wiki2023.mundoplus.tv/_media/logos/mdem4.png",M.Deporte 4 1080 (lista-Jfuster)
 acestream://b40e1de2dcbd7c665f54877b14c830ed67b32a96
-#EXTINF:-1 tvg-logo="https://wiki2023.mundoplus.tv/_media/logos/mdem5.png",M.Deporte 5 1080 (J)
+#EXTINF:-1 tvg-logo="https://wiki2023.mundoplus.tv/_media/logos/mdem5.png",M.Deporte 5 1080 (lista-Jfuster)
 acestream://7b361369a40046ad3011086f9d4ae2982fb4d5aa
-
-
