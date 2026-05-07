@@ -15,7 +15,7 @@ acestream://7ad14386deef2f45ffe17d30a631dbf79b6a1a87
 #EXTINF:-1,M. LaLiga 3 720
 acestream://382b14499e3d76e557d449d2e5bbc4e4bd63bd39
 
-#EXTINF:-1,Campeones 1080
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1280px-Movistar_Liga_de_Campeones.svg.png",Campeones 1080
 acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
 #EXTINF:-1,Campeones 1080 2
 acestream://2b51710cee513e8939785fa3e7980f32d4e0415f
