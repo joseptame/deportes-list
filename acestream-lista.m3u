@@ -92,9 +92,5 @@ acestream://2fd410c5d89e7a627cd3785685b7915b8e4bd534
 acestream://b40e1de2dcbd7c665f54877b14c830ed67b32a96
 #EXTINF:-1 tvg-logo="https://wiki2023.mundoplus.tv/_media/logos/mdem5.png",M.Deporte 5 1080 (lista-Jfuster)
 acestream://7b361369a40046ad3011086f9d4ae2982fb4d5aa
-#EXTINF:-1 tvg-logo="https://logo.clearbit.com/dazn.com",DaznBot
-acestream://df98650743f24a245c44cdf2851e57078f4c487a
-#EXTINF:-1 tvg-logo="https://logo.clearbit.com/dazn.com",DaznBot2
-acestream://c35d2207792128fc0ae49c40e885c463f664dbce
 #EXTINF:-1 tvg-logo="https://logo.clearbit.com/dazn.com",DaznBar Test
 acestream://897e73c9d578848f596585314ecb9ae067c0e229
