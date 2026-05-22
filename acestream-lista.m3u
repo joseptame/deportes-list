@@ -94,3 +94,5 @@ acestream://b40e1de2dcbd7c665f54877b14c830ed67b32a96
 acestream://7b361369a40046ad3011086f9d4ae2982fb4d5aa
 #EXTINF:-1 tvg-logo="https://logo.clearbit.com/dazn.com",DaznBot13
 acestream://01b333b9369c662775902638ef8cffac346a0f61
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/movistar.es",movistarBot
+acestream://a68b3b22d35003dbc3096850858b7b468b8a38e0
